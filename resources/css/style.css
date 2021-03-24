@@ -3,13 +3,25 @@ body {
     text-align: center;
     background-color: black;
 }
-
+/* HEADERS */
 .header--main {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.header--subheader {
+    font-size: 21px;
+    color: gray;
+}
+
+/* LINKS */
 .link--cta {
     font-size: 16px;
     color: aquamarine; 
